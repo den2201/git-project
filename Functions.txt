@@ -1,0 +1,1 @@
+./Debug/string.cpp.o ./Debug/summ_massive.cpp.o ./Debug/main.cpp.o ./Debug/V_of_cilindr.cpp.o ./Debug/S_of_3_ugol.cpp.o ./Debug/max_of_3.cpp.o ./Debug/massiv_1.cpp.o   
